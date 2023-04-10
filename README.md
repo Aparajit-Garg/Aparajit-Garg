@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aparajit-Garg
 - 👀 I’m interested in Computer Vision, Deep Learning and Robotics.
 - 🌱 I’m currently learning multiple things.
-- 💞️ I’m looking to collaborate on vision projects(private/open source).
+- 💞️ I’m looking to collaborate on vision projects(private/open source) as well as react projects.
 - 📫 How to reach me: aparajit.garg06@gmail.com
 
 <!---
